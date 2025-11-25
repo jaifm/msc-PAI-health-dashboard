@@ -1,1 +1,6 @@
+# Core dependencies
 pandas
+numpy
+
+# Testing
+unittest2
